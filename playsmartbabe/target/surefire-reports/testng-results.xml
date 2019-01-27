@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="68" started-at="2018-12-22T07:04:45Z" finished-at="2018-12-22T07:04:45Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="68" started-at="2018-12-22T07:04:45Z" finished-at="2018-12-22T07:04:45Z">
+      <class name="Playsmartbabe.maventest3">
+        <test-method status="PASS" signature="testcase3()[pri:0, instance:Playsmartbabe.maventest3@2812cbfa]" name="testcase3" duration-ms="2" started-at="2018-12-22T07:04:45Z" finished-at="2018-12-22T07:04:45Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testcase3 -->
+      </class> <!-- Playsmartbabe.maventest3 -->
+      <class name="Playsmartbabe.testmaven2">
+        <test-method status="PASS" signature="testcase()[pri:0, instance:Playsmartbabe.testmaven2@2d6e8792]" name="testcase" duration-ms="1" started-at="2018-12-22T07:04:45Z" finished-at="2018-12-22T07:04:45Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testcase -->
+      </class> <!-- Playsmartbabe.testmaven2 -->
+      <class name="Playsmartbabe.tesmaven4">
+        <test-method status="PASS" signature="tsetmaven()[pri:0, instance:Playsmartbabe.tesmaven4@17f6480]" name="tsetmaven" duration-ms="16" started-at="2018-12-22T07:04:45Z" finished-at="2018-12-22T07:04:45Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tsetmaven -->
+      </class> <!-- Playsmartbabe.tesmaven4 -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>

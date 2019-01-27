@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="77" started-at="2019-01-26T03:59:54Z" finished-at="2019-01-26T03:59:54Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="77" started-at="2019-01-26T03:59:54Z" finished-at="2019-01-26T03:59:54Z">
+      <class name="Playsmartbabe.testmaven2">
+        <test-method status="PASS" signature="testcase()[pri:0, instance:Playsmartbabe.testmaven2@523884b2]" name="testcase" duration-ms="20" started-at="2019-01-26T03:59:54Z" finished-at="2019-01-26T03:59:54Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testcase -->
+      </class> <!-- Playsmartbabe.testmaven2 -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
